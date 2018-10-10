@@ -1,2 +1,1 @@
-# CommonsMassUpload
-CommonsMassUpload
+#Please edit scipt area as necessary
